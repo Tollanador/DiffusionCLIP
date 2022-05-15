@@ -1,3 +1,6 @@
+To play with.
+
+
 # DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation (CVPR 2022) 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E8QHZ3BbkF6hzk0rRKzhfkySmYf_BZaE?usp=sharing) [![arXiv](https://img.shields.io/badge/arXiv-2110.02711-red)](https://arxiv.org/abs/2110.02711)
